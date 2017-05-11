@@ -18,6 +18,7 @@
  * @since purepress 1.0
  */
 ?>
+<?php get_template_part('_breadcrumbs'); ?>
 
 <!-- 960 Container -->
 <div class="container">

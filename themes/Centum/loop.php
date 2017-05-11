@@ -19,6 +19,18 @@
  */
 ?>
 
+<?php get_template_part('_breadcrumbs'); ?>
+
+			<!-- <p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#" id="test59"><span typeof="v:Breadcrumb"><a href="http://2tm.si" rel="v:url" property="v:title">Переезд в Словению</a> » <span class="breadcrumb_last">Стоимость услуг</span></span></span>
+			</p>		
+			</div>
+	</div>  -->
+
+
+
+
+
+
 <!-- 960 Container -->
 <div class="container">
 

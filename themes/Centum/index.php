@@ -6,6 +6,7 @@
 get_header();
 
 
+
 if(is_front_page()) {
 
 	$slider_on  = ot_get_option( 'slider_on' );

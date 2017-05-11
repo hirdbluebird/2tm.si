@@ -5932,3 +5932,12 @@ a.button1:active {
         font-size: 14px;
     line-height: 30px;
 }
+
+
+/* Eugene changes */
+
+
+
+.blog-sidebar > a {
+	width:80%;
+}

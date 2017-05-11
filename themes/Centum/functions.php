@@ -1,7 +1,7 @@
 <?php
 //wp_set_password( 'password', 1 );
 
-$shortname = "icrd";
+$shortname = "icrd"; 
 define('PPTNAME', $shortname);
 
 /**

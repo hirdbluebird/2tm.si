@@ -5,6 +5,8 @@
  */
 get_header(); ?>
 
+<?php get_template_part('_breadcrumbs'); ?>
+
 
 <!-- 960 Container -->
 <div class="container">
